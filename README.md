@@ -1,5 +1,5 @@
 
-<h2> Hello welcome <i>I'm glad to show you my data science projects</i></h2>
+<h2> Hello welcome, <i>I'm glad to show you my data science projects</i></h2>
 
 <img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
 
@@ -30,9 +30,9 @@ Portfolios:
 
 
 ## ⚡ Technologies 
-- Python,SQL**
-- Pandas, Numpy, Scikit-Learn,TensorFlow,Statsmodels,XGBoost**
-- Matplotlib, Seaborn,Plotly.Express**
+- Python,SQL
+- Pandas, Numpy, Scikit-Learn,TensorFlow,Statsmodels,XGBoost
+- Matplotlib, Seaborn,Plotly.Express
 
 
 ## You can find me at:
