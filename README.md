@@ -20,7 +20,9 @@ Portfolios:
 * [Brain Stroke Prediction-Oversample-Neural Network-XGBOOST](https://www.kaggle.com/code/agustin222/oversamp-nn-xgb)
 * [Univariate Climate Prediction+EDA+LSTM PRED](https://www.kaggle.com/code/agustin222/eda-lstm-forecast-pred) Bronze Medal
 
-## 💻 
+## 💻 Github Projects
+
+*
 
 ## ⚡ Technologies 
 - Python,SQL**
@@ -30,28 +32,14 @@ Portfolios:
 
 ## You can find me at:
 * [Linkedin](www.linkedin.com/in/agustin-cepeda)
-* [Gmail] (agustincepeda1@gmail.com)
-
-
-![Suyash github stats](https://github-readme-stats.vercel.app/api?username=Suyash-Srivastava&hide=["issues"]&show_icons=true)
+* 📫 [Gmail] (agustincepeda1@gmail.com)
 
 
 
 
 
-### Hi there 👋
+
 
 <!--
 **AgustinCdeCelis/AgustinCdeCelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
