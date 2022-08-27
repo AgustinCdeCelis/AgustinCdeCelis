@@ -21,8 +21,13 @@ Portfolios:
 * [Univariate Climate Prediction+EDA+LSTM PRED](https://www.kaggle.com/code/agustin222/eda-lstm-forecast-pred) Bronze Medal
 
 ## 💻 Github Projects
+* [Lineal Regression-Boston Houses](https://github.com/AgustinCdeCelis/Linear-Regression)
+* [Weather Lineal Regression](https://github.com/AgustinCdeCelis/Weather-Lineal-Regression)
+* [Cancer Logistic Regresssion](https://github.com/AgustinCdeCelis/Cancer-Logistic-Regression)
+* [Weather Decision Tree and Random Forest](https://github.com/AgustinCdeCelis/DecisionTreeAndRandomForest)
+* [Feature Engineering](https://github.com/AgustinCdeCelis/Feature-Engineer/blob/main/feature-engineering.ipynb)
+* [Titanic First try-Model](https://github.com/AgustinCdeCelis/Titanic-First-Try)
 
-*
 
 ## ⚡ Technologies 
 - Python,SQL**
@@ -32,7 +37,7 @@ Portfolios:
 
 ## You can find me at:
 * [Linkedin](www.linkedin.com/in/agustin-cepeda)
-* 📫 [Gmail] (agustincepeda1@gmail.com)
+* 📫 agustincepeda1@gmail.com
 
 
 
