@@ -12,16 +12,16 @@ Coming from the social sciences, i 'm interested in the previous data analysis t
 I have high level english, Intemediate Portuguese and I am going to study catalan.
 
 Portfolios: 
- https://github.com/AgustinCdeCelis
- https://www.kaggle.com/agustin222
+ * https://github.com/AgustinCdeCelis
+ * https://www.kaggle.com/agustin222
 
 ## 💻 Kaggle Projects
-* [Cars Purchase Decision-Easy Understanding Metrics](https://www.kaggle.com/code/agustin222/easy-understanding-metrics)
-* [South America EDA ](https://www.kaggle.com/code/agustin222/south-america-eda)
+* [Cars Purchase Decision-Easy Understanding Metrics](https://www.kaggle.com/code/agustin222/easy-understanding-metrics) Bronze Medal
+* [South America EDA ](https://www.kaggle.com/code/agustin222/south-america-eda) Bronze Medal
 * [G20 Inflation Rate-EDA-DATA VISUALIZATION](https://www.kaggle.com/code/agustin222/g20-inflation-rate-dv)
-* [Spotify Visualization EDA](https://www.kaggle.com/code/agustin222/spotify-visual-and-eda)
+* [Spotify Visualization EDA](https://www.kaggle.com/code/agustin222/spotify-visual-and-eda) Bronze Medal
 * [Brain Stroke Prediction-Oversample-Neural Network-XGBOOST](https://www.kaggle.com/code/agustin222/oversamp-nn-xgb)
-* [Univariate Climate Prediction+EDA+LSTM PRED](https://www.kaggle.com/code/agustin222/eda-lstm-forecast-pred)
+* [Univariate Climate Prediction+EDA+LSTM PRED](https://www.kaggle.com/code/agustin222/eda-lstm-forecast-pred) Bronze Medal
 
 ## ⚡ Technologies 
 - Python,SQL**
