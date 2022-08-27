@@ -1,10 +1,7 @@
 
-<h2> Hello welcome <<i>I'm glad to show you my data science projects</i>></h2>
+<h2> Hello welcome <i>I'm glad to show you my data science projects</i></h2>
 
 <img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustin-cepeda)](https://www.linkedin.com/in/agustin-cepeda) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agustincepeda1@gmail.com)](mailto:agustincepeda1@gmail.com)
 
 I'm Agustin Cepeda, I'm from Argentina, actually living in Spain. I'm Sociologist, oriented to Data Science. Actually, I'm working as a Freelance Data Science at Upwork. I make exploratory Data Analysis, Machine Learning and Deep Learning Models with Python.
 I am passionate about logic thought, maths and data critical analysis.
@@ -23,13 +20,17 @@ Portfolios:
 * [Brain Stroke Prediction-Oversample-Neural Network-XGBOOST](https://www.kaggle.com/code/agustin222/oversamp-nn-xgb)
 * [Univariate Climate Prediction+EDA+LSTM PRED](https://www.kaggle.com/code/agustin222/eda-lstm-forecast-pred) Bronze Medal
 
+## 💻 
+
 ## ⚡ Technologies 
 - Python,SQL**
 - Pandas, Numpy, Scikit-Learn,TensorFlow,Statsmodels,XGBoost**
 - Matplotlib, Seaborn,Plotly.Express**
--
 
-## 👋 Reach out to me 
+
+## You can find me at:
+* [Linkedin](www.linkedin.com/in/agustin-cepeda)
+* [Gmail] (agustincepeda1@gmail.com)
 
 
 ![Suyash github stats](https://github-readme-stats.vercel.app/api?username=Suyash-Srivastava&hide=["issues"]&show_icons=true)
