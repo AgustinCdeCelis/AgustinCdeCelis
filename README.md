@@ -19,6 +19,7 @@ Portfolios:
 * [Spotify Visualization EDA](https://www.kaggle.com/code/agustin222/spotify-visual-and-eda) Bronze Medal
 * [Brain Stroke Prediction-Oversample-Neural Network-XGBOOST](https://www.kaggle.com/code/agustin222/oversamp-nn-xgb)
 * [Univariate Climate Prediction+EDA+LSTM PRED](https://www.kaggle.com/code/agustin222/eda-lstm-forecast-pred) Bronze Medal
+* [School Shooting in USA- EDA and Visual](https://www.kaggle.com/code/agustin222/usa-sch-shoot-eda)
 
 ## 💻 Github Projects
 * [Lineal Regression-Boston Houses](https://github.com/AgustinCdeCelis/Linear-Regression)
