@@ -8,7 +8,7 @@ I am passionate about logic thought, maths and data critical analysis.
 Coming from the social sciences, i 'm interested in the previous data analysis to understand the causes that give me the opportunity to develope better predictive models. With this background, my work experience and my Kaggle projects, i get the proper skills to generate high impacts in my project's creations.
 I have high level english, Intemediate Portuguese and I am going to study catalan.
 
-Portfolios: 
+Repositories: 
  * https://github.com/AgustinCdeCelis
  * https://www.kaggle.com/agustin222
 
@@ -20,10 +20,11 @@ Portfolios:
 * [Brain Stroke Prediction-Oversample-Neural Network-XGBOOST](https://www.kaggle.com/code/agustin222/oversamp-nn-xgb)
 * [Univariate Climate Prediction+EDA+LSTM PRED](https://www.kaggle.com/code/agustin222/eda-lstm-forecast-pred) Bronze Medal
 * [School Shooting in USA- EDA and Visual](https://www.kaggle.com/code/agustin222/usa-sch-shoot-eda)
+* [Wine Review+EDA+NLTK+WORDCLOUD] (https://www.kaggle.com/code/agustin222/wine-review-eda-nltk-cloud)
 
 ## 💻 Github Projects
 * [Lineal Regression-Boston Houses](https://github.com/AgustinCdeCelis/Linear-Regression)
-* [Weather Lineal Regression](https://github.com/AgustinCdeCelis/Weather-Lineal-Regression)
+* [Weather Lineal Regression](https://github.com/AgustinCdeCeli)eather-Lineal-Regression)
 * [Cancer Logistic Regresssion](https://github.com/AgustinCdeCelis/Cancer-Logistic-Regression)
 * [Weather Decision Tree and Random Forest](https://github.com/AgustinCdeCelis/DecisionTreeAndRandomForest)
 * [Feature Engineering](https://github.com/AgustinCdeCelis/Feature-Engineer/blob/main/feature-engineering.ipynb)
@@ -33,7 +34,8 @@ Portfolios:
 ## ⚡ Technologies 
 - Python,SQL
 - Pandas, Numpy, Scikit-Learn,TensorFlow,Statsmodels,XGBoost
-- Matplotlib, Seaborn,Plotly.Express
+- Matplotlib, Seaborn,Plotly.Express.
+-Neural Language Preprocessing(NLTK,WordCloud)
 
 
 ## You can find me at:
