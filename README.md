@@ -21,7 +21,7 @@ Repositories:
 * [Univariate Climate Prediction+EDA+LSTM PRED](https://www.kaggle.com/code/agustin222/eda-lstm-forecast-pred) Bronze Medal
 * [School Shooting in USA- EDA and Visual](https://www.kaggle.com/code/agustin222/usa-sch-shoot-eda)
 * [Wine Review+EDA+NLTK+WORDCLOUD](https://www.kaggle.com/code/agustin222/wine-review-eda-nltk-cloud) Bronze Medal
-* [World Cup is Coming- Full EDA] (https://www.kaggle.com/code/agustin222/world-cup-is-coming-full-eda)
+* [World Cup is Coming- Full EDA](https://www.kaggle.com/code/agustin222/world-cup-is-coming-full-eda)
 
 ## 💻 Github Projects
 * [Lineal Regression-Boston Houses](https://github.com/AgustinCdeCelis/Linear-Regression)
