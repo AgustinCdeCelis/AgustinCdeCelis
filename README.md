@@ -15,12 +15,13 @@ Repositories:
 ## 💻 Kaggle Projects
 * [Cars Purchase Decision-Easy Understanding Metrics](https://www.kaggle.com/code/agustin222/easy-understanding-metrics) Bronze Medal
 * [South America EDA ](https://www.kaggle.com/code/agustin222/south-america-eda) Bronze Medal
-* [G20 Inflation Rate-EDA-DATA VISUALIZATION](https://www.kaggle.com/code/agustin222/g20-inflation-rate-dv)
+* [G20 Inflation Rate- EDA-DATA VISUALIZATION](https://www.kaggle.com/code/agustin222/g20-inflation-rate-dv)
 * [Spotify Visualization EDA](https://www.kaggle.com/code/agustin222/spotify-visual-and-eda) Bronze Medal
-* [Brain Stroke Prediction-Oversample-Neural Network-XGBOOST](https://www.kaggle.com/code/agustin222/oversamp-nn-xgb)
+* [Brain Stroke Prediction- Oversample-Neural Network-XGBOOST](https://www.kaggle.com/code/agustin222/oversamp-nn-xgb)
 * [Univariate Climate Prediction+EDA+LSTM PRED](https://www.kaggle.com/code/agustin222/eda-lstm-forecast-pred) Bronze Medal
 * [School Shooting in USA- EDA and Visual](https://www.kaggle.com/code/agustin222/usa-sch-shoot-eda)
-* [Wine Review+EDA+NLTK+WORDCLOUD] (https://www.kaggle.com/code/agustin222/wine-review-eda-nltk-cloud)
+* [Wine Review+EDA+NLTK+WORDCLOUD](https://www.kaggle.com/code/agustin222/wine-review-eda-nltk-cloud) Bronze Medal
+* [World Cup is Coming- Full EDA] (https://www.kaggle.com/code/agustin222/world-cup-is-coming-full-eda)
 
 ## 💻 Github Projects
 * [Lineal Regression-Boston Houses](https://github.com/AgustinCdeCelis/Linear-Regression)
