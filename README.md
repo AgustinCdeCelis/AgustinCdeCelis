@@ -23,13 +23,6 @@ Repositories:
 * [Wine Review+EDA+NLTK+WORDCLOUD](https://www.kaggle.com/code/agustin222/wine-review-eda-nltk-cloud) Bronze Medal
 * [World Cup is Coming- Full EDA](https://www.kaggle.com/code/agustin222/world-cup-is-coming-full-eda)
 
-## 💻 Github Projects
-* [Lineal Regression-Boston Houses](https://github.com/AgustinCdeCelis/Linear-Regression)
-* [Weather Lineal Regression](https://github.com/AgustinCdeCeli)eather-Lineal-Regression)
-* [Cancer Logistic Regresssion](https://github.com/AgustinCdeCelis/Cancer-Logistic-Regression)
-* [Weather Decision Tree and Random Forest](https://github.com/AgustinCdeCelis/DecisionTreeAndRandomForest)
-* [Feature Engineering](https://github.com/AgustinCdeCelis/Feature-Engineer/blob/main/feature-engineering.ipynb)
-* [Titanic First try-Model](https://github.com/AgustinCdeCelis/Titanic-First-Try)
 
 
 ## ⚡ Technologies 
