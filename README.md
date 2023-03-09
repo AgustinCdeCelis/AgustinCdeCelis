@@ -3,7 +3,7 @@
 
 <img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
 
-I'm Agustin Cepeda, I'm from Argentina, actually living in Spain. I'm Sociologist, oriented to Data Science. Actually, I'm working as a Freelance Data Science at Upwork. I make exploratory Data Analysis, Machine Learning and Deep Learning Models with Python.
+I'm Agustin Cepeda, I'm from Argentina. I'm Sociologist, oriented to Data Science. Actually, I'm working as a Freelance Data Science at Upwork. I make exploratory Data Analysis, Machine Learning and Deep Learning Models with Python.
 I am passionate about logic thought, maths and data critical analysis.
 Coming from the social sciences, i 'm interested in the previous data analysis to understand the causes that give me the opportunity to develope better predictive models. With this background, my work experience and my Kaggle projects (I'm actually a Kaggle Network Expert), i get the proper skills to generate high impacts in my project's creations.
 I have high level english, Intemediate Portuguese and I am going to study catalan.
